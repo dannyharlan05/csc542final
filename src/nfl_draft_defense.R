@@ -471,7 +471,7 @@ all_extra_metrics
 
 
 # =========================
-# OVERALL OFFENSE AUROC + AUPRC
+# OVERALL DEFENSE AUROC + AUPRC
 # =========================
 
 install.packages("pROC")
