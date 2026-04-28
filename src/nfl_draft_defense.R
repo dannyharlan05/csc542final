@@ -6,7 +6,7 @@ library(boot)
 
 options(scipen = 999)
 
-file <- "C:/Users/brand/OneDrive - University of Miami/Obsidian/UMiami/2025-2026/Notes/CSC642/group_project/data/last_set.csv"
+file <- "last_set.csv"
 data <- read_csv(file)
 
 data <- data %>%
